@@ -1,0 +1,19 @@
+{
+  "name": "angular-reddit",
+  "version": "1.0.0",
+  "description": "Angular Clone of Reddit",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colechambers/angular-reddit.git"
+  },
+  "author": "Cole Chambers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colechambers/angular-reddit/issues"
+  },
+  "homepage": "https://github.com/colechambers/angular-reddit#readme"
+}
